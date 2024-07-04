@@ -1,0 +1,45 @@
+# Node.js
+node_modules/
+
+# Editor files
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Dependency directories
+/@types/
+/.pnp/
+.pnp.js
+
+# Environment variables
+.env
+
+# Vercel
+.vercel/
+
+# Prettier
+prettier-debug.log
+
+# Coverage output files
+coverage/
+.nyc_output/
+
+# ENV files
+.env.*
+
+# Yarn
+.yarn/*
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.pnp.*
+.pnp.js
+
+# Yarn Integrity file
+.yarn-integrity
+
+# Yarn Error logs
+.yarn-error.log

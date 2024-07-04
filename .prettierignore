@@ -1,0 +1,15 @@
+# Build Output Directory
+dist/
+
+# TailwindCSS Output File
+public/css/styles.css
+
+# Markdown Files
+*.md
+
+# Minified files
+*.min.*
+
+# Coverage output files
+coverage/
+.nyc_output/
